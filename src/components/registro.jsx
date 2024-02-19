@@ -50,7 +50,8 @@ function Registros() {
       <div>
         <h5>O usa tu email para registrarte</h5>
       </div>
-      <Formulario className='formulario' onSubmit={handleSubmit} />
+      <div className='formulario'><Formulario  onSubmit={handleSubmit} /></div>
+      
     </div>
   );
 }

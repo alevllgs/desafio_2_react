@@ -53,3 +53,14 @@
   justify-content: center;
   gap: 1em;
 }
+
+.boton {
+  margin-top: 10px;
+  background-color: #61dafb;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 300ms;
+ 
+}

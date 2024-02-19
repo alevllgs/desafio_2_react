@@ -63,8 +63,8 @@ function Formulario({ onSubmit }) {
           onChange={handleChange}
           required
         />
-      </div>
-      <button type="submit">Enviar</button>
+      </div >
+      <button type="submit" className='boton'>Enviar</button>
     </form>
     </div>
   );
