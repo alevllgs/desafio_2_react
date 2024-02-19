@@ -40,3 +40,20 @@
 .read-the-docs {
   color: #888;
 }
+
+.cajaIconos {
+  display: flex;
+  flex-direction: column;
+
+}
+
+.iconos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1em;
+}
+ .formulario {
+display: flex;
+  gap: 1em;
+ }
